@@ -23,9 +23,9 @@ const default_config = {
           name: "media/rrss",
           links: [
             {
-              name: "mastodon",
-              url: "https://mastodon.social",
-              icon: "brand-mastodon",
+              name: "discord",
+              url: "https://discord.com",
+              icon: "brand-discord",
               icon_color: palette.green,
             },
             {
@@ -65,13 +65,13 @@ const default_config = {
           links: [
             {
               name: "mail",
-              url: "https://mail.proton.me",
+              url: "https://mail.google.com/mail/u/0/",
               icon: "brand-campaignmonitor",
               icon_color: palette.green,
             },
             {
               name: "calendar",
-              url: "https://calendar.proton.me",
+              url: "https://calendar.proton.me/"
               icon: "calendar-filled",
               icon_color: palette.peach,
             },
