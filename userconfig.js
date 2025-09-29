@@ -23,7 +23,7 @@ const default_configuration = {
       d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
       g: ["https://google.com/search?q=", "Google"],
     },
-    default: "d",
+    default: "g",
   },
   keybindings: {
     s: "search-bar",
@@ -35,7 +35,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "moi :3",
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
@@ -88,9 +88,9 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
+              name: "YouTube",
+              url: "https://youtube.com",
+              icon: "youtube",
               icon_color: palette.green,
             },
             {
