@@ -1,10 +1,10 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Alicante",
+    location: "Avignon",
     scale: "C",
   },
   clock: {
@@ -20,12 +20,12 @@ const default_config = {
       background_url: "src/img/banners/window-room.png",
       categories: [
         {
-          name: "media/rrss",
+          name: "media/resaux",
           links: [
             {
-              name: "mastodon",
-              url: "https://mastodon.social",
-              icon: "brand-mastodon",
+              name: "discord",
+              url: "https://discordapp.com",
+              icon: "brand-discord",
               icon_color: palette.green,
             },
             {
@@ -93,8 +93,8 @@ const default_config = {
           name: "school",
           links: [
             {
-              name: "aules",
-              url: "https://aules.edu.gva.es/semipresencial/my/index.php?lang=es",
+              name: "ENT",
+              url: "https://ent.univ-avignon.fr/",
               icon: "school",
               icon_color: palette.green,
             },
@@ -105,21 +105,10 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "aws",
-              url: "https://awsacademy.instructure.com/",
-              icon: "brand-aws",
+              name: "ENT",
+              url: "https://edt.univ-avignon.fr/",
+              icon: "calendar-filled",
               icon_color: palette.red,
-            },
-          ],
-        },
-        {
-          name: "job",
-          links: [
-            {
-              name: "linkedin",
-              url: "https://www.linkedin.com/",
-              icon: "brand-linkedin",
-              icon_color: palette.green,
             },
           ],
         },
