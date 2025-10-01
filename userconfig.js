@@ -897,6 +897,18 @@ const default_config = {
               icon: "message-chatbot",
               icon_color: palette.red,
             },
+            {
+              name: "duck.ai",
+              url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+              icon: "ai",
+              icom_color: palette.blue,
+            },
+            {
+              name: "Grok",
+              url: "https://grok.com/",
+              icon: "brand-x",
+              icom_color: palette.purple,
+            },
           ],
         },
       ],
