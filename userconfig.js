@@ -99,13 +99,13 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "outlook",
-              url: "https://outlook.office.com/mail/",
+              name: "Mail",
+              url: "https://partage.univ-avignon.fr/h/",
               icon: "inbox",
               icon_color: palette.peach,
             },
             {
-              name: "ENT",
+              name: "EDT",
               url: "https://edt.univ-avignon.fr/",
               icon: "calendar-filled",
               icon_color: palette.red,
@@ -151,8 +151,8 @@ const default_config = {
           name: "services",
           links: [
             {
-              name: "portainer",
-              url: "http://127.0.0.1:9000",
+              name: "Git pages",
+              url: "https://docs.github.com/en/pages",
               icon: "brand-docker",
               icon_color: palette.green,
             },
