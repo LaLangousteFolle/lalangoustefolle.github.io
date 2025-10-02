@@ -542,7 +542,7 @@ const default_config = {
             {
               name: "Dungeon Draft",
               url: "https://dungeondraft.net/",
-              icon: "filled-feather",
+              icon: "feather",
               icon_color: palette.peach,
             },
             {
@@ -554,7 +554,7 @@ const default_config = {
             {
               name: "Wonder Draft",
               url: "https://www.wonderdraft.net/",
-              icon: "music-heart",
+              icon: "sword",
               icon_color: palette.blue,
             },
             {
@@ -571,7 +571,7 @@ const default_config = {
             {
               name: "Ambiance Music",
               url: "https://www.youtube.com/playlist?list=PLNw_D9QIPUomlhhwq6zsUYl1xtv1rIEb3",
-              icon: "photo-pentagon",
+              icon: "music",
               icon_color: palette.green,
             },
             {
@@ -600,7 +600,7 @@ const default_config = {
             {
               name: "Token Maker",
               url: "https://rolladvantage.com/tokenstamp/",
-              icon: "photo-exagon",
+              icon: "photo-pentagon",
               icon_color: palette.green,
             },
             {
