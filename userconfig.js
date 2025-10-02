@@ -475,7 +475,7 @@ const default_config = {
       ],
     },
     {
-      name: "Role-Play",
+      name: "D&D",
       background_url: "src/img/banners/field.gif",
       categories: [
         {
@@ -503,7 +503,7 @@ const default_config = {
               name: "Shop",
               url: "https://dndstore.wizards.com/us/en/",
               icon: "dice-4",
-              icon_color: palette.red,
+              icon_color: palette.blue,
             },
           ],
         },
@@ -513,19 +513,19 @@ const default_config = {
             {
               name: "Foundry",
               url: "https://foundryvtt.com/",
-              icon: "calendar-time",
+              icon: "hammer",
               icon_color: palette.green,
             },
             {
               name: "Roll20",
               url: "hhttps://roll20.net/",
-              icon: "stars-off",
+              icon: "sword",
               icon_color: palette.peach,
             },
             {
               name: "Dungeon full dive",
               url: "https://www.dungeonfulldive.com/",
-              icon: "brand-lastfm",
+              icon: "shield",
               icon_color: palette.red,
             },
           ],
@@ -536,19 +536,19 @@ const default_config = {
             {
               name: "Inkarnate",
               url: "https://inkarnate.com/",
-              icon: "device-speaker",
+              icon: "map-route",
               icon_color: palette.green,
             },
             {
               name: "Dungeon Draft",
               url: "https://dungeondraft.net/",
-              icon: "brand-lastfm",
+              icon: "feather",
               icon_color: palette.peach,
             },
             {
               name: "Dungeon Alchemist",
               url: "https://www.dungeonalchemist.com/",
-              icon: "ear",
+              icon: "crystal-ball",
               icon_color: palette.red,
             },
             {
@@ -560,7 +560,7 @@ const default_config = {
             {
               name: "Dungeon Scrawl",
               url: "https://www.dungeonscrawl.com/",
-              icon: "guitar-pick",
+              icon: "bow",
               icon_color: palette.mauve,
             },
           ],
@@ -571,25 +571,25 @@ const default_config = {
             {
               name: "Ambiance Music",
               url: "https://www.youtube.com/playlist?list=PLNw_D9QIPUomlhhwq6zsUYl1xtv1rIEb3",
-              icon: "volume",
+              icon: "photo-pentagon",
               icon_color: palette.green,
             },
             {
               name: "Syrinscape",
               url: "https://syrinscape.com/",
-              icon: "building-store",
+              icon: "volume",
               icon_color: palette.peach,
             },
             {
               name: "Tabletop Audio",
               url: "https://tabletopaudio.com/",
-              icon: "piano",
+              icon: "device-speaker",
               icon_color: palette.red,
             },
             {
               name: "Tabletop RPG Music",
               url: "https://www.tabletoprpgmusic.com/",
-              icon: "numbers",
+              icon: "music",
               icon_color: palette.blue,
             },
           ],
@@ -915,7 +915,7 @@ const default_config = {
             {
               name: "duck.ai",
               url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
-              icon: "ai",
+              icon: "brain",
               icon_color: palette.blue,
             },
             {
