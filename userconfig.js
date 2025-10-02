@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "personal",
-      background_url: "src/img/banners/window-room.png",
+      background_url: "src/img/banners/cat.gif",
       categories: [
         {
           name: "media/resaux",
@@ -180,7 +180,7 @@ const default_config = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/retro-mario.png",
+      background_url: "src/img/banners/room.gif",
       categories: [
         {
           name: "media",
@@ -326,7 +326,7 @@ const default_config = {
     },
     {
       name: "gaming",
-      background_url: "src/img/banners/doom-slayer.png",
+      background_url: "src/img/banners/hk.gif",
       categories: [
         {
           name: "stores",
@@ -476,10 +476,10 @@ const default_config = {
     },
     {
       name: "Role-Play",
-      background_url: "src/img/banners/lofi.jpg",
+      background_url: "src/img/banners/field.gif",
       categories: [
         {
-          name: "Dungeon and Dragon",
+          name: "D&D",
           links: [
             {
               name: "Wiki",
@@ -497,6 +497,12 @@ const default_config = {
               name: "Compendium",
               url: "https://www.dnd-compendium.com/",
               icon: "dice-3",
+              icon_color: palette.red,
+            },
+            {
+              name: "Shop",
+              url: "https://dndstore.wizards.com/us/en/",
+              icon: "dice-4",
               icon_color: palette.red,
             },
           ],
@@ -625,7 +631,7 @@ const default_config = {
     },
     {
       name: "art",
-      background_url: "src/img/banners/sky.png",
+      background_url: "src/img/banners/sky.gif",
       categories: [
         {
           name: "media",
@@ -724,7 +730,7 @@ const default_config = {
     },
     {
       name: "tools",
-      background_url: "src/img/banners/tokyo.png",
+      background_url: "src/img/banners/train-stop.gif",
       categories: [
         {
           name: "general",
