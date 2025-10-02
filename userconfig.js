@@ -536,13 +536,13 @@ const default_config = {
             {
               name: "Inkarnate",
               url: "https://inkarnate.com/",
-              icon: "map-route",
+              icon: "map",
               icon_color: palette.green,
             },
             {
               name: "Dungeon Draft",
               url: "https://dungeondraft.net/",
-              icon: "feather",
+              icon: "filled-feather",
               icon_color: palette.peach,
             },
             {
@@ -566,7 +566,7 @@ const default_config = {
           ],
         },
         {
-          name: "resources/tools",
+          name: "Audio",
           links: [
             {
               name: "Ambiance Music",
@@ -593,12 +593,14 @@ const default_config = {
               icon_color: palette.blue,
             },
           ],
+        },
+        {
           name: "Tools and ressources",
           links: [
             {
               name: "Token Maker",
               url: "https://rolladvantage.com/tokenstamp/",
-              icon: "volume",
+              icon: "photo-exagon",
               icon_color: palette.green,
             },
             {
